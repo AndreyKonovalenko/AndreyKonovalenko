@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div disply='flex' flex-direction='row'>
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreyKonovalenko&repo=examinator" />
-  <img" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyKonovalenko&layout=compact" />
+  <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyKonovalenko&layout=compact" />
 <div/>
 <div disply='flex' flex-direction='row'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreyKonovalenko" />

@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div disply='flex' flex-direction='row'>
+<div display='flex' flex-direction='row'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreyKonovalenko" />
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AndreyKonovalenko&date_format=j%20M%5B%20Y%5D" />
 <div/>
-<div disply='flex' flex-direction='column'>
+<div display='flex' flex-direction='column'>
   <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyKonovalenko&layout=compact" />
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreyKonovalenko&repo=examinator" />
 <div/>

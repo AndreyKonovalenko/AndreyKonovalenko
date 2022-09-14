@@ -1,6 +1,10 @@
 ### Hi there 👋
+I'm Andrey Kononvalenko. 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=your-github-AndreyKnovalanko&color=blue&style=plastic&style=for-the-badge"/></p>
 
+- 🔭 I’m currently working on <a href="https://github.com/AndreyKonovalenko/examinator.git"> examinator app<a/>
+- 🌱 I’m currently expanding my skill in React, Express.js, Node.js, MongoDB.
+- 👯 I’m looking for full time React Developer position.
 
 <!--
 **AndreyKonovalenko/AndreyKonovalenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

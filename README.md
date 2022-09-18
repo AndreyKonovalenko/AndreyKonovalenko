@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=AndreyKonovalenko&date_format=j%20M%5B%20Y%5"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=AndreyKonovalenko"/>
   <img src="https://github-readme-stats.vercel.app/api?username=AndreyKonovalenko"/>
 </p>
 

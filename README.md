@@ -2,7 +2,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=your-github-AndreyKnovalanko&color=blue&style=plastic&style=for-the-badge"/></p>
 
-- 🔭 I’m currently working on <a href="https://github.com/AndreyKonovalenko/examinator.git"> examinator app<a/>
+- 🔭 I’m currently working on <a href="https://github.com/AndreyKonovalenko/examinator.git"> examinator<a/>
 - 🌱 I’m currently expanding my skill in React, Express.js, Node.js, MongoDB.
 - 👯 I’m looking for full time React Developer position.
 
@@ -11,7 +11,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on examinator app
+- 🔭 I’m currently working on examinator
 - 🌱 I’m currently learning React, Express.js, Node.js, MongoDB.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

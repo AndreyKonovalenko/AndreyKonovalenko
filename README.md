@@ -2,7 +2,6 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=your-github-AndreyKnovalanko&color=blue&style=plastic&style=for-the-badge"/></p>
 
-- 🔭 I’m currently working on <a href="https://github.com/AndreyKonovalenko/examinator.git"> examinator<a/>
 - 🌱 I’m currently expanding my skills in React, Express.js, Node.js, MongoDB.
 - 👯 I’m looking for full time React Developer position.
 

@@ -2,8 +2,8 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=your-github-AndreyKnovalanko&color=blue&style=plastic&style=for-the-badge"/></p>
 
-- 🌱 I’m currently expanding my skills in React, Express.js, Node.js, MongoDB.
-- 👯 I’m looking for full time React Developer position.
+- I’m currently expanding my skills in React.
+- I’m looking for a full time React Developer position.
 
 <!--
 **AndreyKonovalenko/AndreyKonovalenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

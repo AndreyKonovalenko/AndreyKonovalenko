@@ -1,7 +1,5 @@
-## Hi there 👋 I'm Andrey Konovalenko. 
-
-- I’m React Developer.
-- I’m looking for a full time React Developer position.
+## Hi, there 👋  
+I'm Andrey Konovalenko - Front-end Web Developer.
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/ak_contact)

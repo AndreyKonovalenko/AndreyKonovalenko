@@ -1,5 +1,5 @@
 ## Hi, there 👋  
-I'm Andrey Konovalenko - Front-end Web Developer.
+I'm Andrey Konovalenko, front-end web developer.
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/ak_contact)
